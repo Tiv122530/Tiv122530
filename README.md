@@ -2,6 +2,8 @@
 
 [Tiv122530](https://github.com/Tiv122530)。VALORANT の戦績トラッカー [valoranthub](https://valoranttracker.com) 向けに、公開 API のクライアントと試合まわりのツールを書いています。
 
+仕事でも開発していて、いまは主に [Trackman](https://www.trackman.com/ja) を扱っています。
+
 ## 公開しているもの
 
 - [ValorantHub-API](https://github.com/Tiv122530/ValorantHub-API) — valoranthub 公開 API の TypeScript SDK。Riot アカウントの連携、ランクと試合の検索、リーダーボード、連携アカウントのショップと所持品、ヒートマップなどの試合解析。
